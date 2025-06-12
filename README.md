@@ -1,8 +1,8 @@
+# 🧠 DSA Practice – Java
+
+Welcome to my Data Structures and Algorithms practice repository!  
 # Data Structures
 
-## Description
-
-Repository to track my DSA learning journey
 
 ## JS Algorithms
 
@@ -68,3 +68,4 @@ Repository to track my DSA learning journey
 ## Tips
 
 - Take a look at last Solved problem before starting
+
