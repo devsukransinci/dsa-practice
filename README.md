@@ -3,7 +3,7 @@
 Welcome to my Data Structures and Algorithms practice repository!  
 # Data Structures
 
-> 🔥 Şu ana kadar çözülen toplam: **58 problem**
+> 🔥 Total solved so far: 58 problems
 
 ### 🔹 Array & Two Pointers
 - [Two Sum](./js/two-sum.js)
