@@ -36,7 +36,7 @@ var solution = function (isBadVersion) {
   };
 };
 
-/**
+/** Algorithm description
  * Explanation
  * There is a funcption provided which returns whether a number is abd or nu
  * Find the first bad version

@@ -12,7 +12,7 @@ var jump = function (nums) {
    * Keep iterating by moving shortest possible jum as longest jump (From prev iteration) + 1 and calculating new longest jum
    * Increment total jum count after each iteration
    * 
-   * Algorithm
+   * Algorithm description
    * 
    * 1. Create a variable for result, left nd right
    * 2. Iterate through array until right is less then length

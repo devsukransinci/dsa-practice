@@ -5,7 +5,7 @@
  */
 var findContentChildren = function (g, s) {
   /**
-   *Algorithm
+   *Algorithm description
    * 1. Sort both Array
    * 2. Create a result counteer and index for g
    * 3. Iterate hrough s

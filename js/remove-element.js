@@ -5,7 +5,7 @@
  */
 var removeElement = function (nums, val) {
   /**
-   * Algorithm
+   * Algorithm description
    * 
    * 
    * 1. Itegrate though the list

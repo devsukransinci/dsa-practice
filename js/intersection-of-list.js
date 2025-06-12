@@ -1,5 +1,5 @@
 /**
- * Algorithm
+ * Algorithm description
  * Definition for singly-linked list.
  * function ListNode(val) {
  *     this.val = val;
@@ -13,7 +13,7 @@
  * @return {ListNode}
  */
 var getIntersectionNode = function (headA, headB) {
-  /** Algorithm
+  /** Algorithm description
    * Time complexity O(m+n)
    * 
    * Keep iterating throgh list until l1 is not equal to l2

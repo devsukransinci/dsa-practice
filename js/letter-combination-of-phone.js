@@ -4,7 +4,7 @@
  */
 var letterCombinations = function (digits) {
   /**
-   * Algorithm
+   * Algorithm description
    * 
    * 1. Create an Array with mapping of each number with letter, Create a result array
    * 2. If no input then no combination possible

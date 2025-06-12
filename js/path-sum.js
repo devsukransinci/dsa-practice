@@ -14,7 +14,7 @@
  */
 var hasPathSum = function (root, targetSum) {
   /**
-   * Algorithm
+   * Algorithm description
    * 1. Return if node is null
    * 2. Create a back tracking function
    *      If its a leaf node then check prevSum + curentNode val = target Sum

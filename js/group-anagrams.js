@@ -3,7 +3,7 @@
  * @return {string[][]}
  */
 var groupAnagrams = function (strs) {
-  /**
+  /**Algorithm description
    * Logic
    * For each anagram, Each string is gonna be exac same after sorting,
    * Algorithm

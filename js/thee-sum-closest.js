@@ -4,7 +4,7 @@
  * @return {number}
  */
 var threeSumClosest = function (nums, target) {
-  // Algorithm
+  // Algorithm description
   
   // 1. Sort the array
   // 2. Take a var closest and assign a very high value

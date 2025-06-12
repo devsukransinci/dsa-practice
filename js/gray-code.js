@@ -4,7 +4,7 @@
  */
 var grayCode = function (n) {
   /**
-   * Algorith
+   * Algorithm description
    * 1. Calculate the mxa sequece count = 2 to the power n,
    * 2. Iterate through while loop and perform ,
    *  -> Shift current val right by 1 -> XOR with current val (Resulnat will be a decimal number)

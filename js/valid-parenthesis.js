@@ -4,7 +4,7 @@
  */
 var isValid = function (s) {
   /**
-   * Algorithm
+   * Algorithm description
    * 1. Create a array to store all opening parenthesis
    * 2. Iterate through the input
    * 3. If its opening parenthesis then store in array and skip iteration

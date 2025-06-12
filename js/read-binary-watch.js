@@ -4,7 +4,7 @@
  */
 var readBinaryWatch = function (num) {
   /**
-   * Algorithm
+   * Algorithm description
    * 
    * 
    * 1. Create an array to store the times

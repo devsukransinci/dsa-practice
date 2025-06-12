@@ -4,7 +4,7 @@
  */
 var maxProfit = function (prices) {
   /**
-   *Algorithm
+   *Algorithm description
    * *
    * 1. Create two pointers and a variable to stor max profile
    * 2. Iterate throug prices while right (Sell) pointer is less than last item

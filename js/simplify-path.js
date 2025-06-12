@@ -10,7 +10,7 @@ var simplifyPath = function (path) {
 
 
   /**
-   * Algorithm
+   * Algorithm description
    * 
    * 1. Splith on /
    * 2. Iterate

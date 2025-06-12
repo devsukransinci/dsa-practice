@@ -4,7 +4,7 @@
  */
 var repeatedSubstringPattern = function (s) {
   /**
-   * Algorithm
+   * Algorithm description
    * 
    *
    * 1. Double the string

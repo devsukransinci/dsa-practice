@@ -4,7 +4,7 @@
  */
 var moveZeroes = function (nums) {
   /**
-   * Algorithm
+   * Algorithm description
    *
    * Use quick sort
    * Create left and rght pointer starting from 0

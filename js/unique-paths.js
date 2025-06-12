@@ -5,7 +5,7 @@
  */
 var uniquePaths = function (m, n) {
   /**
-   * Algorithm
+   * Algorithm description
    * 1. Start from bottom right corner and come to first element in top left
    * 2. Create the bottom first row with items as 1 (Posible way o reaching there will always be one)
    * 3. Move to secondlast row and add col + 1th item (Posible ways to each there will be total ays to reach bottom el and total ways to reach right element)

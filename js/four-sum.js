@@ -5,7 +5,7 @@
  */
 var fourSum = function (nums, target) {
   /**
-   *Algorithm
+   *Algorithm description
    * 1. Sort the numbers
    * 
    * 2. Run a for loop till n-3 (To compensate for 2nd, 3rd and 4th val),

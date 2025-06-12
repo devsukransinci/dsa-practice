@@ -5,7 +5,7 @@
  */
 var containsNearbyDuplicate = function (nums, k) {
   /**
-   *Algorithm
+   *Algorithm description
    * 
    * 1. Check if the number already exists and compare current index with stored index and check if is less than k, return true if yes
    * 2. Else Add all numbers in set (Replace if already exist),

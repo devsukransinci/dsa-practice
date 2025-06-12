@@ -7,7 +7,7 @@
  */
 var merge = function (nums1, m, nums2, n) {
   /**
-   *  Algorithm 
+   *  Algorithm description 
    *
    * 1. Using a loop check the mth and nth element, whichever is large, put them in the end
    * 2. Decrement the counter posito of that array and the position counter

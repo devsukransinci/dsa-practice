@@ -4,7 +4,7 @@
  */
 var missingNumberOptimised = function (nums) {
   /**
-   * Algorithm
+   * Algorithm description
    * init a res value equal to length
    * 1. Sum all the numbers from 0th to nth element
    * 2. In each iteration, subtract the itth element from inpit array

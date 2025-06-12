@@ -4,7 +4,7 @@
  */
 var removeDuplicates = function (nums) {
   /**
-   * Algorithö
+   * Algorithm description
    *
    *
    * 1. Iterate throug ht list

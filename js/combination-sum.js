@@ -5,12 +5,12 @@
  */
 var combinationSum = function (candidates, target) {
   /**
-   * Algorithm
+   * Algorithm description
    * Description
    * Recurvie add each element with every other elemnt until sum is equal to target
    * If Equal to target then save the combination of number,
    * 
-   * Algorithm
+   * Algorithm description
    *
    * 1. Creae a recursive mthod with position, currentCombination, totl
    *  a. If total is same a target, then push currentCOmbination array to result

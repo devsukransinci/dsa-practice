@@ -9,7 +9,7 @@ var exist = function (board, word) {
   // Go through every single word
   /**
    * 
-   * Algorithm
+   * Algorithm description
    *
    * 1. Compare each element with the starting element of the string
    * 2. If matches then go to next element and checm if any adjcent element matches the next element

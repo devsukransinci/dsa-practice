@@ -5,7 +5,7 @@
  * @return {string}
  */
 var convert = function (s, numRows) {
-  // Algorithm
+  // Algorithm description
   // 1. If numRows is 1, return s
   // 2. Create stepCounter to calculate next charter
   // 3. Create a for loop to iterate through row and one for col

@@ -4,7 +4,7 @@
  */
 var generateParenthesis = function (n) {
   /**
-   * Algorithm
+   * Algorithm description
    * 1. Create a result array,
    * 2. Create a recursive method that takes remaining rigt, left bracket and current combination,
    *   Remaining left bracket cannot b less than right,

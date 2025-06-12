@@ -1,5 +1,5 @@
 /**
- * Algorithm
+ *  Algorithm description
  * Definition for singly-linked list.
  * function ListNode(val, next) {
  *     this.val = (val===undefined ? 0 : val)
@@ -16,7 +16,7 @@ function ListNode(val, next) {
   @return {ListNode}
 
 const addTwoNumbers = function (l1, l2) {
-  // Algoright
+  //  Algorithm description
   
   // 1. Create a variable  to storae sum of list items AND carry 'sum'
   // 2. Create a variable to store current head of new list 'current' with first item as 0

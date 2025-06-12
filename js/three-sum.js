@@ -3,7 +3,7 @@
  * @return {number[][]}
  */
 function threeSum(nums) {
-  //Algorithm
+  //Algorithm description
   // 1. Set target as 0
   // 2. Sort the array in desc
   // 3. Run a for loop till n-2 (n-2 coz will do the su for first, mid, last)

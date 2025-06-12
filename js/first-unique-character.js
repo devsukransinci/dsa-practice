@@ -4,7 +4,7 @@
  */
 var firstUniqChar = function (s) {
   /**
-   *Algorithm
+   *Algorithm description
    *
    * 1. Create a map and store count,
    * 2. Iterate through map and see first element having count as 1 tenn return 1,

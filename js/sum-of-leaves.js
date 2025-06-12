@@ -13,7 +13,7 @@
  */
 var sumOfLeftLeaves = function (root) {
   /**
-   * Algorithm
+   * Algorithm description
    * 
    * 1. Create a variable to store the sum
    * 2. Create a function to traverse the tree

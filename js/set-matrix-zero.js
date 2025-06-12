@@ -5,7 +5,7 @@
 
 var setZeroes = function (matrix) {
   /**
-   * Algorithm
+   * Algorithm description
    * 1. Use first ro and col as pointer whether that row/col should be marked as zero or not
    * 2. Sepial scenario (Frst row wil be in matrix[0][0]), use a separate variable for 1st column
    * 3. Iterate throw the matrix and update first row/col to 0 as a marker whether it shou,d be 0

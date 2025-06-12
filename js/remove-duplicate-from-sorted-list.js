@@ -8,7 +8,7 @@ function ListNode(val, next) {
  */
 var deleteDuplicates = function (head) {
   /**
-   *Algorithm
+   *Algorithm description
    
    *
    * 1. Run a while loop to iterate through he list

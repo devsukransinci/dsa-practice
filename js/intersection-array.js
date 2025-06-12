@@ -5,7 +5,7 @@
  */
 var intersection = function (nums1, nums2) {
   /**
-   * Algorithm
+   * Algorithm description
    * 
    * 1. Create 2 sets to get unique valu
    * Check if set has a value using set.has and if true insert in a serultarray

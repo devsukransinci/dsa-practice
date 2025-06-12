@@ -4,7 +4,7 @@
  */
 var isValidSudoku = function (board) {
   /**
-   * Algorithm
+   * Algorithm description
    * 1. Interate throw rows and cols using 2 for loop
    * 2. Store row as (index)value, col as value(index), row-col combination as (row-group)value(col-group) in a set
    * 3. Check if they arent alreay present in set, if yes then return false

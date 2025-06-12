@@ -4,7 +4,7 @@
  */
 var countAndSay = function (n) {
   /**
-   *Algorithm
+   *Algorithm description
    * 
    * 1. Initial case 1- > 1, 2 -> 11  and initialise previousString as 11 initially,
    * 2. From n=3 Use a loop to iterate until counter is less then n,

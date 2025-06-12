@@ -4,7 +4,7 @@
  */
 var merge = function (intervals) {
   /**
-   *Algorithm
+   *Algorithm description
    * 1. Sort based on first element of each subarray
    * 2. Store previous end value
    * 3. Iterate through interval array and check for oerlapping

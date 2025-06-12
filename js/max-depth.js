@@ -1,4 +1,4 @@
-/**Algorithm
+/**Algorithm description
  * Definition for a binary tree node.
  * function TreeNode(val, left, right) {
  *     this.val = (val===undefined ? 0 : val)
@@ -13,7 +13,7 @@
  */
 var maxDepth = function (root) {
   /**
-   * Algorithm
+   * Algorithm description
    * 
    * Create a method that recursively calls itself for both lft nd right branch and return lenth of side whichever is greater
    * Each reculrsive call with increment length by 1

@@ -5,7 +5,7 @@
  */
 var isIsomorphic = function (s, t) {
   /**
-   * Algorithm
+   * Algorithm description
    * 
    * 
    * 1. Create 2 maps

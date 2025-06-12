@@ -4,7 +4,7 @@
  * @return {number}
  */
 var findMedianSortedArrays = function (nums1, nums2) {
-  // Algorithm
+  // Algorithm description
   // 1. Merge two array in soreted manner
   // 2. If lengthn is 1 then return oth element
   // 3. If length is even then calculate median of middle two elements

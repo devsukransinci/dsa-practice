@@ -4,7 +4,7 @@
  */
 var plusOne = function (digits) {
   /**
-   * Algorithm
+   * Algorithm description
    * 1. Loop throught the digits from back
    * 
    * 2. Increment number, if there is a carry then store it in a variable

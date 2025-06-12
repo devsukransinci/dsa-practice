@@ -3,7 +3,7 @@
  * @return {number}
  */
 var maxArea = function (height) {
-  //Algorithm
+  //Algorithm description
   // Start from either end until reached center
   // For each iteration, Calculate area such that length will be the min(first, last), increment line on whichever side its shorter
 

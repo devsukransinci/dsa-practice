@@ -5,7 +5,7 @@
  */
 var searchRange = function (nums, target) {
   /**
-   *Algorithm
+   *Algorithm description
    * 
    * 1. If length is 1 then check if value matches target and return 0, 0 else -1, -1
    * 2. Run a birnary serach where increment left as left = mid + 1;

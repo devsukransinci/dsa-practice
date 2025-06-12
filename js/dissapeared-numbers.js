@@ -4,7 +4,7 @@
  */
 var findDisappearedNumbers = function (nums) {
   /**
-   *Algorithm
+   *Algorithm description
    * 1. Sort the numbers,
    * 2. Use 2 variable, one for index and one for current value,
    * 3. Iterate through the loop until val <= length of array (As the arra of length n must contain number [1...n])

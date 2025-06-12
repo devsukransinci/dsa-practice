@@ -4,7 +4,7 @@
  */
 var lengthOfLongestSubstring = function (s) {
   //
-  //Algorithm
+  //Algorithm description
 
   // 1. If length less than 2 then there are no repeating character
   // 2. Travers through array and store unique entry in the map and append the resilt String

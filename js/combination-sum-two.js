@@ -5,7 +5,7 @@
  */
 var combinationSum2 = function (candidates, target) {
   /**
-   * Algorithm
+   * Algorithm description
    * 1. Sort the numbers
    * 2. Create a rescurive function with 3 param, 1. Combinaton arr, position, Current sum
    *  a. If sum=0 then push the combination arr in result arr

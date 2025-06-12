@@ -4,7 +4,7 @@
  */
 var longestPalindrome = function (s) {
   /**
-   * Algorithm
+   * Algorithm description
    * 1. Create a var to store result and anther for a map
    * 2. Itegrate through the string
    * 3. Check if its resent

@@ -4,7 +4,7 @@
  */
 var rotate = function (matrix) {
   /**
-   * Algorithm
+   * Algorithm description
    * Description
    * Rotte the cornermost values
    * Move to right/down/left/up and roate

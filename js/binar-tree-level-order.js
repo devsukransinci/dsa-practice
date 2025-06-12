@@ -10,7 +10,7 @@ function TreeNode(val, left, right) {
 var levelOrder = function (root) {
   /**
    * Store each level of node in a queue  and count their child
-   * Algorithm
+   * Algorithm description
    * 
    * 1. Store the root in the quee
    * 2. Iterate using while loop until queuee[0] is not null

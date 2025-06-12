@@ -4,7 +4,7 @@
  * @return {boolean}
  */
 var wordPattern = function (pattern, s) {
-  /**
+  /**Algorithm description
    * Steps
    * SPlit the words
    * Store value: Key mapping in one map and jus keys in another

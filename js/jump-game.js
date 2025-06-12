@@ -4,7 +4,7 @@
  */
 var canJump = function (nums) {
   /**
-   * Algorithm
+   * Algorithm description
    * 
    * Start from back
    * 1. Check n-1 element and see if its possible to reach to nth element

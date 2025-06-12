@@ -4,7 +4,7 @@
  */
 var minPathSum = function (grid) {
   /**
-   *Algorithm
+   *Algorithm description
    * 1. Initialize an Array with 1 row and column extra with all value as Infinity
    * 2. Initilize [rowLength - 1][colLength] = 0 (Will be used as iniital case in first row)
    * 3. Iterate through each row and colmn from bottom right to calculate the minimum path comparing bottom and right element res[r][c] = grid[r][c] + Math.min(res[r + 1][c], res[r][c + 1])

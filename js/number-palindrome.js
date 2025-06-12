@@ -3,7 +3,7 @@
  * @return {boolean}
  */
 var isPalindrome = function (num) {
-  // Algorithm
+  // Algorithm description
   // 1. Store num in a variable
   // 2. Create a number reverse in naother variable
   // 3. Compare both numbers

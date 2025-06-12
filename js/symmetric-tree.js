@@ -13,7 +13,7 @@
  */
 var isSymmetric = function (root) {
   /**
-   * Algorithm
+   * Algorithm description
    * 
    * 1. Check if root is null then return rue means its a mirro
    * 2. Create a backtracking funding that  recursivey calls itself comparigh outer left ith outer right, inner left with inner right noed

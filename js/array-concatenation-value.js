@@ -1,4 +1,5 @@
-/**
+/** Algorithm description
+ * 
  * @param {number[]} nums
  * @return {number}
  */
